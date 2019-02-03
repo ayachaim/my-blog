@@ -2,8 +2,8 @@
   var model = {
     // 获取数据
     init: function(){
-      var APP_ID = 'TsDnap9SEXjSvGSowP7gXXJC-gzGzoHsz'
-      var APP_KEY = 'rGye31p12mM3wFpNRn9RADu9'
+      var APP_ID = 'nVs0DBXETsOGvdnLxsvWbFXW-gzGzoHsz'
+      var APP_KEY = '2o5T8C1odMy9nTIB8y7yMx6i'
       AV.init({ appId: APP_ID, appKey: APP_KEY })
     },
     fetch: function(){ 
